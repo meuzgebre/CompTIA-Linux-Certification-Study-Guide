@@ -12,6 +12,8 @@ This initiative is committed to offering an inclusive study resource for individ
 
 2. **["CompTIA Linux+ Certification All-in-One Exam Guide" by Ted Jordan and Sandor Strohmayer](https://www.amazon.com/CompTIA-Linux-Certification-All-One/dp/XXXXXXX)**
 
+3. **[File Systems](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)**
+
 ### Online Courses
 
 1. **[Cybrary - CompTIA Linux+ XKO-005](https://www.cybrary.it/course/comptia-linux-plus)**
